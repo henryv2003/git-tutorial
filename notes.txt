@@ -19,6 +19,6 @@
   * git branch<branchName>    > create a new branch
   * git checkout<branchName>  > switch to a branch
   * git merge<branchName>     > merge a branch with another
-  * git rm -- cached index.htlm > untrack files
+  * git rm -- cached index.htlm > untrack files.
   
   
