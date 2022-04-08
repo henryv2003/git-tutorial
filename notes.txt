@@ -12,7 +12,7 @@
   * git init         > initialize local git repo
   * git add <file>   > add file(s) to staging area
   * git status       > check status of working tree
-  * git commit       > commit changes in staging area
+  * git commit -m    > commit changes in staging area
   * git pus          > push to remote repo(github)
   * git pull         > pull lates from remote repo
   * git clone        > clone remote repo locally
