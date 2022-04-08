@@ -1,0 +1,23 @@
+--Keyboard Shortcuts:
+  ul>li*10    = <ul><li></li>(X10-li)</ul>
+  ALT + click = select multiple items
+  CRTL + `    = opens terminal
+
+
+
+
+
+
+--GIT Basic Commands:
+  * git init         > initialize local git repo
+  * git add <file>   > add file(s) to staging area
+  * git status       > check status of working tree
+  * git commit       > commit changes in staging area
+  * git pus          > push to remote repo(github)
+  * git pull         > pull lates from remote repo
+  * git clone        > clone remote repo locally
+  * git branch<branchName>    > create a new branch
+  * git checkout<branchName>  > switch to a branch
+  * git merge<branchName>     > merge a branch with another
+  * git rm -- cached index.htlm > untrack files
+  
