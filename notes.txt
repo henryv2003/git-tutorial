@@ -21,3 +21,4 @@
   * git merge<branchName>     > merge a branch with another
   * git rm -- cached index.htlm > untrack files
   
+  
